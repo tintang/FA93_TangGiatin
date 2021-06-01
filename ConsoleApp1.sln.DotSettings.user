@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1dd29821_002D9724_002D4ab6_002D96af_002D5e27354af937/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestValidBruch" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::67B76F26-51F0-4F27-AABB-5311F606DFAB::net5.0::TestProject2.Tests.TestValidBruch&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::67B76F26-51F0-4F27-AABB-5311F606DFAB::net5.0::TestProject2.Tests.TestInvalidBruch&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=642a682d_002D35b2_002D4c0e_002D9bd4_002Da9653d4893b3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestInvalidBruch" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::67B76F26-51F0-4F27-AABB-5311F606DFAB::net5.0::TestProject2.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
